@@ -47,6 +47,6 @@ CREATE TABLE commentaires (
 
 6. **Configure database connection**
 7. **Access the sites**
-   Vulnerable: http://localhost/projet_xss/index.php
-   Secure: http://localhost/projet_xss/index_secure.php
+- Vulnerable site: [index.php](index.php)
+- Secure site: [index_secure.php](index_secure.php)
    
